@@ -69,4 +69,4 @@ python spe_tokenization.py
 ## Contact
 
 For questions please open a GitHub Issue or contact:
-[your institutional email]
+k.mrhar.ced@uca.ac.ma
